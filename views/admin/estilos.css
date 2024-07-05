@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(250, 201, 163, 1) 62%, rgba(250, 201, 163, 0.9373949408865109) 100%);
+    font-family: "Poetsen One", sans-serif;
+    line-height: normal;
+}
+
+.holder {
+    width: 960px;
+    margin: 0 auto;
+
+}
+
+header {
+    background: radial-gradient(circle, rgba(250, 201, 163, 0.9962184702982756) 0%, rgba(223, 220, 220, 1) 59%, rgba(226, 217, 217, 0.9485994226792279) 100%);
+    padding: 16px;
+    height: auto;
+    display: flex;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+
+    display: block;
+    font-size: 28px;
+    /* padding: 10px; */
+    margin-left: 25px;
+    margin-bottom: 3px;
+
+}
+
+header img {
+    border-radius: 90px;
+    box-shadow: 10px 10px 5px grey;
+
+}
+
+header h2 {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: block;
+    margin: 0 10px;
+    text-align: center;
+
+
+}
+
+/* estilo footer */
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    margin: 25px;
+    text-align: center;
+    font-weight: 100%;
+    background: radial-gradient(circle, rgba(250, 201, 163, 0.9962184702982756) 0%, rgba(223, 220, 220, 1) 59%, rgba(226, 217, 217, 0.9485994226792279) 100%);
+
+}
